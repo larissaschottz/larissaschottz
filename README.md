@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @larissaschottz
-- 👀 I’m interested in Front-end, Data Science
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Bootstrap, React, Web Development, Python and Java
-- 💞️ I’m looking to collaborate on Front-end projects
+- 👀 I’m interested in Front-end, Data Science, Full Stack, Mobile Development
+- 🌱 I’m currently learning JavaScript, TypeScript, React, Python and Java
+- 💞️ I’m looking to collaborate on Projects 
 - 📫 How to reach me https://www.linkedin.com/in/larissaschottz/
 
 <!---
