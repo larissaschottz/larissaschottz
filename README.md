@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @larissaschottz
 - 👀 I’m interested in Data Science, Data Engineering, Machine Learning, Front-End
-- 🌱 I’m currently learning JavaScript, Swift, DAX and Python
+- 🌱 I’m currently learning Power BI, Power Query VBA, SQL, DAX and Python
 - 💞️ I’m looking to collaborate on Projects 
 - 📫 How to reach me https://www.linkedin.com/in/larissaschottz/
 
